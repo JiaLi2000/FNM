@@ -1,5 +1,5 @@
 # Fair Ncut Minimization
-
+Codes and datasets for paper "Spectral Normalized-Cut Graph Partitioning with Fairness Constraints".
 ## Requirements
 Our experiments test on ubuntu 20.04 with python 3.9 and [Gurobi 10.0](https://www.gurobi.com/).
 Dependent python libraries of our algorithm **FNM** include: \
