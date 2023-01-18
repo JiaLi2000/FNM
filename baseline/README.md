@@ -1,3 +1,4 @@
+# baseline code source
 'Fair_SC_normalized.m' is from the [MATLAB source code](https://github.com/matthklein/fair_spectral_clustering/blob/master/Fair_SC_normalized.m) of [BSE](http://proceedings.mlr.press/v97/kleindessner19b/kleindessner19b.pdf). We discard the Kmeans phase(Line 61) for ablation study.
 
 'cplex_fair_assignment_lp_solver.py', 'cplex_violating_clustering_lp_solver.py', 
