@@ -12,7 +12,7 @@ To run other baseline algorithms,
 IP/LP sovler [Cplex](https://www.ibm.com/products/ilog-cplex-optimization-studio/cplex-optimizer), [MATLAB](https://ww2.mathworks.cn/products/matlab.html) and python library [karateclub=1.3.3](https://karateclub.readthedocs.io/en/latest/) are also needed.
 Please refer to the corresponding paper for details.
 
-## Reproduction of results
+## Reproduction of results 
 1. Create a new directory 'results/embeddings' in the root directory.
 2. Run 'run_exp_FESC.m' with MATLAB.
 3. Run any of the other experimental scripts simply by
